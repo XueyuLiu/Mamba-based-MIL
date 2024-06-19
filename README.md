@@ -48,4 +48,4 @@ python 4_heatmap_ori.py
 
 
 ## Acknowledgement
-Thanks [MedMamba]([https://github.com/facebookresearch/dinov2](https://github.com/YubiaoYue/MedMamba.git)). for serving as building blocks of our codes.
+Thanks [MedMamba]([https://github.com/YubiaoYue/MedMamba.git]). for serving as building blocks of our codes.
