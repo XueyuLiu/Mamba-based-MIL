@@ -1,5 +1,9 @@
 # Mamba-based-MIL
 
+<p align="center">
+<img width="800" alt="Doctor Mamba" src="imgs/Doctor_Mamba.png">
+</p>
+
 
 ## Usage 
 ### Setup 
