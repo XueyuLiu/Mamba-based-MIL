@@ -11,7 +11,6 @@ from torch import nn
 from MyLoader import OrigDataset as XDataset
 from torchvision import transforms
 import torch.backends.cudnn as cudnn
-import resnet18
 from MedMamba import VSSM as medmamba
 from utils import inference
 from PIL import ImageFile

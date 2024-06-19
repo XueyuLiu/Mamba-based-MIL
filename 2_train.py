@@ -12,7 +12,6 @@ import numpy as np
 from MyLoader import OrigDataset as XDataset
 from torchvision import transforms
 import torch.backends.cudnn as cudnn
-import resnet18
 from MedMamba import VSSM as medmamba
 from utils import inference, train, group_argtopk, writecsv, group_max, calc_err
 from PIL import ImageFile
