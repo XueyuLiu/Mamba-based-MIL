@@ -29,7 +29,7 @@ python 1_preprocess.py
 
 ### Model training
 ```
-python 2_spore_1.py
+python 2_train.py
 ```
 
 ### Model inference
