@@ -43,9 +43,9 @@ python 4_report.py
 ```
 ### Output probmap and heatmap
 ```
-python 4_heatmap_ori.py
+python 4_heatmap.py
 ```
 
 
 ## Acknowledgement
-Thanks [MedMamba]([https://github.com/YubiaoYue/MedMamba.git]). for serving as building blocks of our codes.
+Thanks [MedMamba](https://github.com/YubiaoYue/MedMamba.git). for serving as building blocks of our codes.
